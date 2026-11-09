@@ -1,0 +1,22 @@
+{
+ "total": {
+  "cr1": 0.046,
+  "wcr": 0.056
+ },
+ "structure": {
+  "cr1": 0.04,
+  "wcr": 0.072
+ },
+ "coal_pair": {
+  "cr1": 0.052,
+  "wcr": 0.06,
+  "independent": 0.0
+ },
+ "within": {
+  "cr1": 0.062,
+  "wcr": 0.062,
+  "independent": 0.0
+ },
+ "nrep": 500,
+ "B": 199
+}
